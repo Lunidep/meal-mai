@@ -1,0 +1,9 @@
+rootProject.name = 'meal-microservices'
+
+includeBuild 'meal-config'
+includeBuild 'meal-gateway'
+includeBuild 'meal-server'
+includeBuild 'meal-entity'
+includeBuild 'meal-menu'
+includeBuild 'meal-utils'
+includeBuild 'meal-users'

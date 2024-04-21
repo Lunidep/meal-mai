@@ -8,4 +8,8 @@
 
 **ionic-frontend** - кроссплатформенный с использованием фреймворка Ionic и Angular.
 
+## User flow
 ![user_flow](/user_flow.jpg)
+
+##Authorization flow
+![authorization_flow](/authorization_flow.jpg)

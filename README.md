@@ -11,5 +11,5 @@
 ## User flow
 ![user_flow](/user_flow.jpg)
 
-##Authorization flow
+## Authorization flow
 ![authorization_flow](/authorization_flow.jpg)

@@ -11,5 +11,8 @@
 ## User flow
 ![user_flow](/user_flow.jpg)
 
+## Design
+![design](/design_app.jpg)
+
 ## Authorization flow
 ![authorization_flow](/authorization_flow.jpg)
